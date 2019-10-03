@@ -73,11 +73,15 @@ if(!isset($username)){
 
     </div>
 
-
+    
 
     <div class="container-fluid" style="margin-top:50px;">
+    <h2>DASHBOARD</h2>
+            <hr style="border-color: rgba(190, 190, 190, 0.315)">
         <div class="row">
+            
             <div class="col-sm-4">
+            
                 <div class="card-personal card-border-green float-left-block">
                 <div class="row">
                         <div class="col-xs-3">
